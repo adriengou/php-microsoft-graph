@@ -5,3 +5,5 @@ $tenantId = "common" ;
 $secretId = "2.w8Q~YKmdjncG6WTBBwQZxCecgcQNbEs_6Zvbw6";
 $redirectUri = "http://localhost:8080/microsoftoauth";
 $scopes = ['user.read', 'calendars.read'];
+// $oauthEndpoint
+// $oauthTokenEndpoint
